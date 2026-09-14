@@ -1,2 +1,2 @@
 # privt-key
-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
+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
